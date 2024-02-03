@@ -10,6 +10,8 @@ GamerBeast is a Play Store, basically a UI design
 
 ### hope you like !
 
+https://gamerbeast.netlify.app/
+
 
 
 
